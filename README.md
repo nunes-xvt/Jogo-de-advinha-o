@@ -26,4 +26,4 @@ g++ main.cpp -o jogo
 ```
 
 ---
-*Desenvolvido por [lnunes-ui](https://github.com/lnunes-ui) 🚀*
+*Desenvolvido por [nunes-xvt](https://github.com/nunes-xvt) 🚀*
