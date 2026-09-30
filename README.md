@@ -18,7 +18,8 @@ Um jogo interativo desenvolvido em **C++** que roda diretamente no terminal. O p
 
 ## Estrutura do Projeto
 
-```Jogo-de-advinha-o-main
+```bash
+Jogo-de-advinha-o-main
 ├── license.txt
 ├── README.md
 └── main.cpp
@@ -38,7 +39,7 @@ g++ main.cpp -o jogo
 
 ## Demonstração do Jogo
 
-[![Assista à demonstração](https://asciinema.org/a/YDRKToMcOiMkEWaY.svg)](https://asciinema.org/a/YDRKToMcOiMkEWaY)  
+[![Assita a demonstração!](https://asciinema.org/a/YDRKToMcOiMkEWaY.svg)](https://asciinema.org/a/YDRKToMcOiMkEWaY)  
 
 ---
 *Desenvolvido por [nunes-xvt](https://github.com/nunes-xvt) 🚀*
