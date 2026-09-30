@@ -39,7 +39,7 @@ g++ main.cpp -o jogo
 
 ## Demonstração do Jogo
 
-[![Assista a demonstração!](player_demontracao.svg)](https://asciinema.org/a/YDRKToMcOiMkEWaY)  
+[![Assista a demonstração!](imagens/player_demontracao.svg)](https://asciinema.org/a/YDRKToMcOiMkEWaY)  
 
 ---
 *Desenvolvido por [nunes-xvt](https://github.com/nunes-xvt) 🚀*
