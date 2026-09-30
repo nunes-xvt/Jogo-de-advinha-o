@@ -36,5 +36,9 @@ g++ main.cpp -o jogo
 ./jogo
 ```
 
+## Demonstração do Jogo
+
+[![Assista à demonstração](https://asciinema.org/a/YDRKToMcOiMkEWaY.svg)](https://asciinema.org/a/YDRKToMcOiMkEWaY)  
+
 ---
 *Desenvolvido por [nunes-xvt](https://github.com/nunes-xvt) 🚀*
