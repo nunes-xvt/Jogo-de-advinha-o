@@ -43,3 +43,7 @@ g++ main.cpp -o jogo
 
 ---
 *Desenvolvido por [nunes-xvt](https://github.com/nunes-xvt) 🚀*
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/nunes-xvt/Jogo-de-advinha-o/blob/main/LICENSE) para obter mais detalhes.
