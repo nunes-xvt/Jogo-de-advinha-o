@@ -34,9 +34,11 @@ Se o comando retornar a versão do software, você já está pronto para jogar.
 
 ```bash
 Jogo-de-advinha-o-main
-├── license.txt       # Arquivo de texto contendo os termos legais da licença MIT.
-├── README.md         # Documentação principal do projeto.
-└── main.cpp          # Código-fonte em C++ contendo toda a lógica do jogo.
+├── imagens                     # Diretório para guardar imgens utilizadas no projeto.
+│   └── player_demontracao.svg  # Banner do player para o link da demonstração.
+├── README.md                   # Documentação principal com as instruções do projeto.
+├── LICENSE                     # Arquivo contendo os termos legais da licença MIT.
+└── main.cpp                    # Código-fonte em C++ contendo toda a lógica do jogo.
 ```
 
 ## 💻 Como Rodar o Projeto
