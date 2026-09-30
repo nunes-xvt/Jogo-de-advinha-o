@@ -16,6 +16,14 @@ Um jogo interativo desenvolvido em **C++** que roda diretamente no terminal. O p
 * **Git** (Controle de versão e histórico de etapas)
 * **GitHub** (Hospedagem do repositório)
 
+## Estrutura do Projeto
+
+```Jogo-de-advinha-o-main
+├── license.txt
+├── README.md
+└── main.cpp
+```
+
 ## 💻 Como Rodar o Projeto
 
 Para compilar e rodar o jogo na sua máquina, abra o terminal na pasta do projeto e use os comandos:
