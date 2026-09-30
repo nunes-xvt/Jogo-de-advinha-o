@@ -16,13 +16,27 @@ Um jogo interativo desenvolvido em **C++** que roda diretamente no terminal. O p
 * **Git** (Controle de versão e histórico de etapas)
 * **GitHub** (Hospedagem do repositório)
 
+## 📌 Pré-requisitos
+
+Para compilar e executar este jogo, você precisa de um **compilador C++ (g++)** instalado em sua máquina.
+
+**Como verificar se você já possui o compilador:**
+
+Abra o seu terminal (Prompt de Comando, PowerShell ou Terminal do Linux/Mac) e digite:
+
+```bash
+g++ --version
+```
+
+Se o comando retornar a versão do software, você já está pronto para jogar.
+
 ## Estrutura do Projeto
 
 ```bash
 Jogo-de-advinha-o-main
-├── license.txt
-├── README.md
-└── main.cpp
+├── license.txt       # Arquivo de texto contendo os termos legais da licença MIT.
+├── README.md         # Documentação principal do projeto.
+└── main.cpp          # Código-fonte em C++ contendo toda a lógica do jogo.
 ```
 
 ## 💻 Como Rodar o Projeto
@@ -39,6 +53,22 @@ g++ main.cpp -o jogo
 
 ## Demonstração do Jogo
 
+**Exemplo de Partida no Terminal:**
+
+```text
+Advinhe o numero secreto entre 1 e 100, caso queira desistir digite 0: 
+50
+O numero e MAIOR!
+Advinhe o numero secreto entre 1 e 100, caso queira desistir digite 0: 
+75
+O numero e MENOR!
+Advinhe o numero secreto entre 1 e 100, caso queira desistir digite 0: 
+62
+ACERTOU! O Numero e 62
+Voce demorou 3 tentativas!
+```
+
+**Assista á demonstração!**
 [![Assista a demonstração!](imagens/player_demontracao.svg)](https://asciinema.org/a/YDRKToMcOiMkEWaY)  
 
 ---
